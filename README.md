@@ -1,2 +1,2 @@
 hi
-check out my website: https://www.jdyl.io
+check out my website: https://jdyl.io/
