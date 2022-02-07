@@ -1,3 +1,3 @@
-![Le grille](https://media.giphy.com/media/l41lUJ1YoZB1lHVPG/giphy.gif)
-- https://jdyl.io/
-- https://codepen.io/JdyL
+![Le grille](https://media.giphy.com/media/l41lUJ1YoZB1lHVPG/giphy.gif)  
+`web` https://jdyl.io/  
+`codepen` https://codepen.io/JdyL  
