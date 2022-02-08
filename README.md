@@ -1,3 +1,3 @@
 ![Le grille](https://media.giphy.com/media/l41lUJ1YoZB1lHVPG/giphy.gif)  
-`web` https://jdyl.io/  
-`codepen` https://codepen.io/JdyL  
+`web` <a href="https://jdyl.io/" target="_blank">https://jdyl.io/</a>  
+`codepen` <a href="https://codepen.io/JdyL" target="_blank">https://codepen.io/JdyL</a>  
